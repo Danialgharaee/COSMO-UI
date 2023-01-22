@@ -1,1 +1,1 @@
-open_api_key = 'YOUR_KEY'
+HF_token = 'YOUR_KEY'
