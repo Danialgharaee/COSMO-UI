@@ -10,6 +10,6 @@ Streamlit UI for 🧑🏻‍🚀COSMO
 Quoted from COSMO model card:
 > We would like to emphasize that COSMO is trained on SODA and ProsocialDialog mainly for academic/research purposes. We discourage using COSMO in real-world applications or services as is. Model outputs should not be used for advice for humans, and could be potentially offensive, problematic, or harmful. The model’s output does not necessarily reflect the views and opinions of the authors and their associated affiliations.
 
-## Realated links
+## Related links
 - https://huggingface.co/allenai/cosmo-xl
 - https://github.com/skywalker023/sodaverse
